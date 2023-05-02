@@ -54,3 +54,7 @@ function buttonAnimation(i){
         ab.classList.remove("pressed");
     },100)
 }
+
+setTimeout(function() {
+		window.close();
+	}, 10000);
