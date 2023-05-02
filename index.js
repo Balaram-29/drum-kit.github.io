@@ -57,4 +57,4 @@ function buttonAnimation(i){
 
 setTimeout(function() {
 		window.close();
-	}, 10000);
+	}, 90000);
